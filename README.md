@@ -1,1 +1,1 @@
-# Sprite-boilerplate
+# sprite
